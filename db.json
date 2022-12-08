@@ -1,0 +1,56 @@
+{
+  "user": [
+    {
+      "Image": "https://i.pravatar.cc/150",
+      "email": "aman@gmail.com",
+      "password": "12345",
+      "UserName": "Aman",
+      "id": 1
+    },
+    {
+      "email": "jhaaman061@gmail.com",
+      "password": "1234",
+      "UserName": "Aman",
+      "id": 2
+    },
+    {
+      "email": "jha@gmail.com",
+      "password": "1234",
+      "UserName": "Aman",
+      "id": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "Avatar": "https://i.pravatar.cc/150?img=47",
+      "UserName": "Aman",
+      "FullName": "Aman Jha",
+      "Email": "aman@gmail.com",
+      "followers_count": 4,
+      "following_count": 8
+    }
+  ],
+  "edit": [
+    {
+      "id": 1,
+      "Avatar": "https://i.pravatar.cc/150?img=47",
+      "UserName": "Aman",
+      "FullName": "Aman Jha",
+      "Email": "aman@gmail.com",
+      "followers_count": 4,
+      "following_count": 8
+    }
+  ],
+  "delete": [
+    {
+      "id": 2,
+      "Avatar": "https://i.pravatar.cc/150?img=47",
+      "UserName": "Aman",
+      "FullName": "Aman Jha",
+      "Email": "aman@gmail.com",
+      "followers_count": 4,
+      "following_count": 8
+    }
+  ]
+}
